@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+GoalBot is the best Discord bot for football fans. GoalBot gives you the power to keep up with your favourite team while never missing a message when chatting with your friends.  
+Want to check how many goals your team's star striker has scored this season? No problem. Want to keep tabs on that match your team is playing against their sworn rivals? GoalBot has you covered. In fact, using GoalBot, you can follow up to 5 matches at a time, and get updates, from goals to substitutions, directly in your Discord server.
 
-You can use the [editor on GitHub](https://github.com/delta-alph/goalbot-legal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Invite
+To invite GoalBot to your server [click here](https://discord.com/api/oauth2/authorize?client_id=710658371136651366&permissions=397620390912&scope=applications.commands%20bot).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
+- Follow live matches and be kept up to date right in your Discord server.
+- Subscribe to teams to be pinged with the most important match updates.
+- Check starting XIs ahead of matches.
+- Find replays of goals as they are uploaded to r/soccer.
+- Check the latest stats of your favourite players, team, and leagues.
+- Find out when your team will play their next game, with times displayed in your local timezone.
+- Find out who is making the best moves in the transfer window with a breakdown of players signed and sold per team.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Terms of Service](tos.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/delta-alph/goalbot-legal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Privacy Policy](privacy.md)
